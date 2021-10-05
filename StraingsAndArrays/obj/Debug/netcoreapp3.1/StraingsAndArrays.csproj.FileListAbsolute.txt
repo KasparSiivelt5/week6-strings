@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\titpe21\StraingsAndArrays\StraingsAndArrays\obj\Debug\netcoreapp3.1\StraingsAndArrays.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\StraingsAndArrays\StraingsAndArrays\obj\Debug\netcoreapp3.1\StraingsAndArrays.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\StraingsAndArrays\StraingsAndArrays\obj\Debug\netcoreapp3.1\StraingsAndArrays.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\StraingsAndArrays\StraingsAndArrays\obj\Debug\netcoreapp3.1\StraingsAndArrays.csproj.CoreCompileInputs.cache
